@@ -19,6 +19,7 @@ export const GifExpertApp = () => {
   return (
     <>
       <h1>Gif Expert App</h1>
+      <h2>app #1</h2>
 
       {/* forma 1 */}
       {/* 2. input */}
